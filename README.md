@@ -1,1 +1,0 @@
-In this project, we use Python (pandas and plotly) to build an interactive heatmap on jail population in the USA by county. The data used for this map is a product of the “Incarceration Trends data tool”, a project from the Vera Institute of Justice. 
